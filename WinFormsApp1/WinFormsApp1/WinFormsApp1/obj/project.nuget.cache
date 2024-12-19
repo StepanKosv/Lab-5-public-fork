@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "lyFE8Y/yDAQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Downloads\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.4\\microsoft.codeanalysis.analyzers.3.3.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.codeanalysis.common\\4.12.0\\microsoft.codeanalysis.common.4.12.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.reflection.metadata\\8.0.0\\system.reflection.metadata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
